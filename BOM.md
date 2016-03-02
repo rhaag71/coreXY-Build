@@ -1,9 +1,9 @@
 Bill of Materials
 ---
 
-# Printed Parts
+### Printed Parts
 
-# Non Printed Parts
+### Non Printed Parts
 
 | PART                                                                    | PRICE   | QTY. | UOM  | TOTAL    |
 |-------------------------------------------------------------------------|--------:|:----:|:----:|---------:|
