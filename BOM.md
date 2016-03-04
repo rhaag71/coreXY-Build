@@ -5,10 +5,10 @@ Bill of Materials
 
 ### Non Printed Parts
 
-| PART                                                                    | PRICE   | QTY. | UOM  | TOTAL    |
-|-------------------------------------------------------------------------|--------:|:----:|:----:|---------:|
-| [1.00” X 1.00” T-Slotted Profile](https://8020.net/shop/1010.html)      |   $0.23 |  72  |  in. |   $24.36 |
-| [1.00” X 1.00” T-Slotted Profile](https://8020.net/shop/1010.html)      |   $0.23 | 128  |  in. |   $45.04 |
+| PART                                                                    | PRICE         | QTY. | UOM  | TOTAL    |
+|-------------------------------------------------------------------------|--------------:|:----:|:----:|---------:|
+| [1.00” X 1.00” T-Slotted Profile 1010 Length 18"](https://8020.net/shop/1010.html)      |    -    |  4   |  ea. |   $24.36 |
+| [1.00” X 1.00” T-Slotted Profile 1010 Length 16"](https://8020.net/shop/1010.html)      |    -    |  8   |  ea. |   $45.04 |
 
 ### Electronics
 | PART                                                                                           | PRICE   | QTY. | UOM  | TOTAL    |
