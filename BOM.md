@@ -9,6 +9,7 @@ Bill of Materials
 |-------------------------------------------------------------------------|--------:|:----:|:----:|---------:|
 | [T-Slotted Profile 1010 Length 18"](https://8020.net/shop/1010.html)    |    -    |  4   |  ea. |   $24.36 |
 | [T-Slotted Profile 1010 Length 16"](https://8020.net/shop/1010.html)    |    -    |  8   |  ea. |   $45.04 |
+| [Compact End-Feed Fastener, 1/4"-20 Thread](http://www.mcmaster.com/#47065t139/=1286gpu)                           |    -    |  -   |  pk. |    -     |
 
 ### Electronics
 | PART                                                                                           | PRICE   | QTY. | UOM  | TOTAL    |
