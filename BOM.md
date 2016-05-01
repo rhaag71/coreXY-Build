@@ -18,4 +18,4 @@ Bill of Materials
 | [Arduino Mega 2560 R3](https://8020.net/shop/1010.html)                                        |  $32.95 |   1  |  ea. |   $32.95 |
 | [Pololu A4988 Stepper Motor Driver Carrier, Black Edition](https://www.pololu.com/product/2986)                                                       |     $6.80	|   5  |  ea. |    $34.00  |
 | [Adhesive Heatsink for Pololu A4983/A4988]()                                                   |    -    |   5  |   -  |      -   |
-| [Modular Screw-on M3 Stud Thermistor](http://www.amazon.com/Modular-Thermistor-3D-Extruder-Rigidbot/dp/B00THZJIY8/ref=sr_1_1?ie=UTF8&qid=1462145845&sr=8-1&keywords=Modular-Thermistor-3D-Extruder-Rigidbot) | $11.95 |  1  |  ea. |  -  | 
+| [Modular Screw-on M3 Stud Thermistor](http://www.amazon.com/Modular-Thermistor-3D-Extruder-Rigidbot/dp/B00THZJIY8/ref=sr_1_1?ie=UTF8&qid=1462145845&sr=8-1&keywords=Modular-Thermistor-3D-Extruder-Rigidbot) | $11.95 |  1  |  ea. |  $11.95  | 
